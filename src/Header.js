@@ -18,10 +18,10 @@ function Header() {
             <div className="header__right">
                 <HeaderOptions Icon={Home} title="Home" />
                 <HeaderOptions Icon={SupervisorAccount} title="My Network" />
-                <HeaderOptions Icon={BusinessCenter} title="jobs" />
-                <HeaderOptions Icon={Chat} title="Chat" />
+                <HeaderOptions Icon={BusinessCenter} title="Jobs" />
+                <HeaderOptions Icon={Chat} title="Messaging" />
                 <HeaderOptions Icon={Notifications} title="Notifications" />
-                <HeaderOptions Icon={Avatar} title="Notifications" />
+                <HeaderOptions avatar="https://www.flaticon.com/free-icon/woman_2922478?term=profile&related_id=2922478" title="Me" />
             </div>
         </div>
     )

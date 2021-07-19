@@ -15,3 +15,8 @@
     font-size: 12px;
     font-weight: 400;
 }
+
+.headerOptions_icon {
+    object-fit: contain;
+    height: 25px !important;
+}

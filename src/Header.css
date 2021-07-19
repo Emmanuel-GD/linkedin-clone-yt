@@ -5,6 +5,7 @@
     border-bottom: 0.1px solid lightgray;
     padding-top: 10px;
     padding-bottom: 10px;
+    object-fit: contain;
     width: 100%;
     z-index: 999;
 }
