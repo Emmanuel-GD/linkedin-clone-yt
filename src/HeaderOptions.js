@@ -9,7 +9,7 @@ function HeaderOptions({avatar, Icon, title }) {
             {avatar && (
                 <Avatar className="headerOptions_icon" src={avatar}/>
             )}
-            <h3 className="headerOption_title">{title}</h3>
+            <h3 className="headerOptions__title">{title}</h3>
         </div>
     )
 }
